@@ -7,8 +7,8 @@ def main():
             isprime = False
             break
     if isprime:
-        print("Your number is an prime number : "+number)
+        print("Your number is an prime number : "+str(number))
     else:
-        print("Sory dude, its not an prime number : "+number)
+        print("Sory dude, its not an prime number : "+str(number))
 
 if __name__ == "__main__": main()
