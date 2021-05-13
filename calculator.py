@@ -1,5 +1,7 @@
 import re
 
+#İnterview homework
+
 def multiple(a,b):
     print(a, "*", b, " =", a * b)
     return a*b
